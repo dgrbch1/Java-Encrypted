@@ -28,3 +28,4 @@ This is a simple Java-based GUI application that allows users to encrypt and dec
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
