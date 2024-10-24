@@ -24,8 +24,4 @@ This is a simple Java-based GUI application that allows users to encrypt and dec
 
 ### Steps
 
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-
+![Animation](https://github.com/user-attachments/assets/9eebb7d5-1266-4859-a8b6-900069452d45)
